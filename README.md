@@ -1,4 +1,6 @@
-### Hi there 👋
+  - 🧊 Geometry and groups for 3D vision 
+  - 🧪 A principled and practical approach
+  - 🤖 Robotics and autonomous vehicles
 
 <!--
 **Axquaris/Axquaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
